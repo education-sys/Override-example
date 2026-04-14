@@ -9,6 +9,8 @@ public class Main {
         malinoak9.makeSound(); // Bark
         garfild.makeSound(); // Meow
         nemo.makeSound(); //uzima se metoda iz Animal klase
-        rafaelo.makeSound(); //uzima se metoda iz Animal klase
+        rafaelo.makeSound();
+
+        System.out.println("test");//uzima se metoda iz Animal klase
     }
 }
