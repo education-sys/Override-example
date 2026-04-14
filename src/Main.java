@@ -11,6 +11,7 @@ public class Main {
         nemo.makeSound(); //uzima se metoda iz Animal klase
         rafaelo.makeSound();
 
-        System.out.println("test");//uzima se metoda iz Animal klase
+        System.out.println("test");
+        System.out.println("Test");//uzima se metoda iz Animal klase
     }
 }
