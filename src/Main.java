@@ -10,6 +10,7 @@ public class Main {
         garfild.makeSound(); // Meow
         nemo.makeSound(); //uzima se metoda iz Animal klase
         rafaelo.makeSound();
+        rafaelo.makeSound();
 
         System.out.println("test");
         System.out.println("Test");//uzima se metoda iz Animal klase
